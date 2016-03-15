@@ -1,3 +1,15 @@
+commit 9a1807a88a568a9638f16ad4c5169b1ab5d9e39b
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Sat Mar 12 23:14:31 2016 -0600
+
+    Paginación con Bootstrap
+
+commit 73a3959c3e63c3d6e6e33279be142680f0e0478c
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Sat Mar 12 23:00:48 2016 -0600
+
+    Breadcrumbs con Bootstrap
+
 commit 3cabaef8da1f9403cb1499c544c0793af0835d7e
 Author: raulnabarret <raulnabarret@gmail.com>
 Date:   Mon Feb 15 17:42:53 2016 -0600
