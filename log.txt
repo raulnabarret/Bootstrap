@@ -1,3 +1,63 @@
+commit 586dfa0f79ad18f7aaadd203c220c17641b8d68a
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Fri Mar 18 12:24:45 2016 -0600
+
+    Modals con Bootstrap
+
+commit 10269e4a67f77e9ea72f47224b21a330600c6a0d
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Fri Mar 18 11:57:26 2016 -0600
+
+    Paneles con Bootstrap
+
+commit a688f9738d596d9d401f9060ed67a3f535d2526b
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Thu Mar 17 23:06:36 2016 -0600
+
+    Media Objects con Bootstrap
+
+commit d494dc890b1ca09a5000cd11bd51cc0391d2e7d5
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Thu Mar 17 22:34:29 2016 -0600
+
+    List Groups con Bootstrap
+
+commit d61ceb7298064126c940e858044306118d3483c8
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Wed Mar 16 22:54:07 2016 -0600
+
+    Progress Bar con BoBootstrap
+
+commit 5f7ae36f4b56ed734aa5c565398efa0ccd284262
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Mar 15 22:42:45 2016 -0600
+
+    Alerts con Bootstrap
+
+commit 89eb2d3d66f316b5225c2a84af723afbb550540b
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Mar 15 22:28:35 2016 -0600
+
+    Thumbnails con Bootstrap
+
+commit 079e2d405e9f3b5a39efd7fa08cde863f1b9d0de
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Mar 14 23:20:41 2016 -0600
+
+    Page Header con Bootstrap
+
+commit 718480ae72d53c6b0fda8278ae9a2879632d16e1
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Mar 14 23:09:43 2016 -0600
+
+    Jumbotron con Bootstrap
+
+commit 7d79146ab64022843e911ae0c06ba496fa3dbba0
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Sun Mar 13 23:24:57 2016 -0600
+
+    Labels con Bootstrap
+
 commit 9a1807a88a568a9638f16ad4c5169b1ab5d9e39b
 Author: raulnabarret <raulnabarret@gmail.com>
 Date:   Sat Mar 12 23:14:31 2016 -0600
