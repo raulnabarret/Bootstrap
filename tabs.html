@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Plantilla básica de Bootstrap</title>
+    <!-- CSS de Bootstrap -->
+    <link href="bower_components/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" media="screen">
+    <!-- librerías opcionales que activan el soporte de HTML5 para IE8 -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+</head>
+
+<body>
+    <div class="container-fluid">
+    <br>
+        <div class="row">
+            <div class="col-lg-5">
+                
+                <div role="tabpanel">
+                    <ul class="nav nav-tabs" role="tablist">
+                        <li role="presentation" class="active"><a href="#seccion1" aria-controls="" data-toggle="tab" role="tab">Menu</a> </li>
+                        <li role="presentation"><a href="#seccion2" aria-controls="" data-toggle="tab" role="tab">Menu</a> </li>
+                        <li role="presentation"><a href="#seccion3" aria-controls="" data-toggle="tab" role="tab">Menu</a> </li>  
+                    </ul>
+
+                    <div class="tab-content">
+                        <div role="tabpanel" class="tab-pane active" id="seccion1">
+                            <h4>Seccion 1</h4>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi aliquam eaque possimus mollitia, laboriosam fuga quo corrupti sed atque, repellat doloribus quae pariatur deserunt error dolores accusamus enim, corporis alias nobis odit facere fugit! Neque laudantium molestiae ipsum, quia quibusdam id voluptatibus, quo ex unde, explicabo ullam necessitatibus nihil reprehenderit! </p>
+                        </div>
+                        <div role="tabpanel" class="tab-pane" id="seccion2">
+                            <h4>Seccion 2</h4>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi aliquam eaque possimus mollitia, laboriosam fuga quo corrupti sed atque, repellat doloribus quae pariatur deserunt error dolores accusamus enim, corporis alias nobis odit facere fugit! Neque laudantium molestiae ipsum, quia quibusdam id voluptatibus, quo ex unde, explicabo ullam necessitatibus nihil reprehenderit! </p>
+                        </div>
+                        <div role="tabpanel" class="tab-pane" id="seccion3">
+                            <h4>Seccion 3</h4>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi aliquam eaque possimus mollitia, laboriosam fuga quo corrupti sed atque, repellat doloribus quae pariatur deserunt error dolores accusamus enim, corporis alias nobis odit facere fugit! Neque laudantium molestiae ipsum, quia quibusdam id voluptatibus, quo ex unde, explicabo ullam necessitatibus nihil reprehenderit! </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</body>
+<!-- Librería jQuery requerida por los plugins de JavaScript -->
+<script src="http://code.jquery.com/jquery.js"></script>
+<!-- Todos los plugins JavaScript de Bootstrap (también puedes
+         incluir archivos JavaScript individuales de los únicos
+         plugins que utilices) -->
+<script src="bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+</body>
+
+</html>
