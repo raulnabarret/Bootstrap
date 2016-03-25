@@ -1,0 +1,13 @@
+.navbar {
+	margin-bottom: 0;
+}
+
+.jumbotron {
+	background: #428bca;
+	color: #fff;
+	padding: 20px 0;
+}
+
+.jumbotron h1 {
+	font-size: 80px;
+}
