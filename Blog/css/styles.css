@@ -1,3 +1,6 @@
+/*
+	HEADER
+*/
 .navbar {
 	margin-bottom: 0;
 }
@@ -10,4 +13,37 @@
 
 .jumbotron h1 {
 	font-size: 80px;
+}
+
+/*
+	POSTS
+*/
+
+.main {
+	margin: 20px auto;
+}
+
+.post {
+	padding-bottom: 20px;
+	margin-bottom: 20px;
+	border-bottom: 2px solid #999;
+}
+
+.post .post-title a {
+	color: #333;
+	text-decoration: none;
+}
+
+.post .thumb {
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.post .thumb img {
+	max-width: 100%;
+}
+
+.post .contenedor-botones {
+	width: 100%;
 }
