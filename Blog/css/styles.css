@@ -47,3 +47,10 @@
 .post .contenedor-botones {
 	width: 100%;
 }
+
+@media screen and (768px) {
+	
+	.post .thumb img {
+		margin-bottom: 20px;
+	}
+}
